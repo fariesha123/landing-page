@@ -1,15 +1,12 @@
 {
-  "name": "ellie",
+  "name": "norfariesha-aleeya",
   "version": "1.0.0",
-  "description": "Ellie Template",
-  "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
+  "description": "basic landing page",
+  "author": "norfariesha-aleeya",
   "license": "GPLv3",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/pasqualevitiello/ellie.git"
-  },
-  "bugs": {
-    "url": "https://bitbucket.org/pasqualevitiello/ellie/issues"
+    "url": ""
   },
   "scripts": {
     "clean": "rimraf dist/{css/*,js/*,images/*}",
