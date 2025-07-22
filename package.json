@@ -6,7 +6,7 @@
   "license": "GPLv3",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/fariesha123/landing-page.git"
   },
   "scripts": {
     "clean": "rimraf dist/{css/*,js/*,images/*}",
