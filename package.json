@@ -21,7 +21,7 @@
     "build:js": "run-s uglify",
     "build:images": "run-s imagemin",
     "copy-html": "copy index.html dist/index.html",
-    "build": "run-s build:*",
+    "build": "run-s copy-html build:*",
     "watch:css": "onchange \"src/scss\" -- run-s build:css",
     "watch:js": "onchange \"src/js\" -- run-s build:js",
     "watch:images": "onchange \"src/images\" -- run-s build:images",
