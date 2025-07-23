@@ -14,7 +14,7 @@ html {
 }
 
 body {
-	margin: 0;
+	margin: 15px;
 }
 
 article,
@@ -497,7 +497,7 @@ h6,
 }
 
 .text-sm {
-	font-size: 18px;
+	font-size: 0.85rem;
 	line-height: 30px;
 	letter-spacing: -0.1px;
 }
